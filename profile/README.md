@@ -49,6 +49,8 @@ Fvk6wGQuQQkjHMczaGqeMoe5M4RXKAnMoh6e2G7Mpump
 - Video Tutorials: [Building AI Powered Agents From Scratch](https://www.youtube.com/@TechWithAbee)
 - Course: [Learn Python By Doing Practical Tasks](https://www.udemy.com/course/learn-python-by-doing-practical-tasks/)
 
+Full Codebase for all Open Source AI projects, tutorials can be found on [@abdibrokhim on github](https://github.com/abdibrokhm)
+
 ## License
 
 This project is licensed under the ... License - see the [LICENSE]() file for details.
