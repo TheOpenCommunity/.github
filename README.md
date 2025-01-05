@@ -38,8 +38,9 @@ Empowering Open Source AI with $TROC
 - [X (twitter)](https://x.com/xopencommunity) (crypto community only)
 - [Discord](https://discord.gg/WdgS8jU98w) (crypto community only)
 
+Contract Address:
 ```
-CA: Fvk6wGQuQQkjHMczaGqeMoe5M4RXKAnMoh6e2G7Mpump
+Fvk6wGQuQQkjHMczaGqeMoe5M4RXKAnMoh6e2G7Mpump
 ```
 
 ### Courses & Tutorials
