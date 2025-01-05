@@ -1,5 +1,12 @@
 # Open Community
 
+[![Discord](https://camo.githubusercontent.com/ec5d39ab0ea8e734562352ef135e2937a2526002b90e9a432d0cb29c695b5c1d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d4a6f696e2532306f75722532307365727665722d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](discord.gg/nhDV2kJD) (dev community only)
+[![Discord](https://camo.githubusercontent.com/ec5d39ab0ea8e734562352ef135e2937a2526002b90e9a432d0cb29c695b5c1d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d4a6f696e2532306f75722532307365727665722d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/WdgS8jU98w) (crypto community only)
+[![X (twitter)](https://camo.githubusercontent.com/527cd512620074e605797b2bb8d9cc4cf6077dcfdfcc8593ea8ac2cadc5fcb19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582e636f6d2d466f6c6c6f772d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d7768697465)](https://x.com/xxopencommunity) (dev community only)
+[![X (twitter)](https://camo.githubusercontent.com/527cd512620074e605797b2bb8d9cc4cf6077dcfdfcc8593ea8ac2cadc5fcb19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582e636f6d2d466f6c6c6f772d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d7768697465)](https://x.com/xopencommunity) (crypto community only)
+[![LinkedIn](https://camo.githubusercontent.com/e0b5da352ded24c34c027e1826bc2c4d780976b2bdabca57eff4ca185ff7ba56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://linkedin.com/company/opencommunity)
+[![YouTube](https://camo.githubusercontent.com/aafea284ffcbb063291ec2cc2803493982e65fa18967a211c5b5c689170c217b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d5375627363726962652d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465)](https://youtube.com/@theopencommunity)
+
 Welcome to the Open Community!
 
 ## Mission
@@ -18,7 +25,7 @@ Open Community was created after following inspirational tweet:
 - [Official Website](https://theopencommunity.co) | [Official Website 2](https://imcook.in)
 - [LinkedIn](https://linkedin.com/company/opencommunity)
 - [X (twitter)](https://x.com/xxopencommunity) (dev community only)
-- [Discord](https://discord.gg/nVtmDUN2sR) (dev community only)
+- [Discord](https://discord.gg/nhDV2kJD) (dev community only)
 - [YouTube](https://youtube.com/@theopencommunity)
 - [Instagram](https://instagram.com/theopencommunity)
 
