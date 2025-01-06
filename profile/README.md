@@ -11,11 +11,13 @@ Welcome to the Open Community!
 
 ## Mission
 
-Open Community was created... Interested? refer to [README-1124.md](https://github.com/TheOpenCommunity/.github/tree/main/profile). Other archived READMEs can be found in the [profile](https://github.com/TheOpenCommunity/.github/tree/main/profile) directory.
+just help you to learn things in a new way.
+
+Open Community was created... Interested? refer to [README-1124.md](https://github.com/TheOpenCommunity/.github/blob/main/profile/README-1124.md). Other archived READMEs can be found in the [profile](https://github.com/TheOpenCommunity/.github/tree/main/profile) directory.
 
 ## Join Us
 
-- [Official Website](https://theopencommunity.co) | [Official Websitee](https://imcook.in)
+- [Official Website](https://theopencommunity.co) | [Founder Website](https://imcook.in)
 - [LinkedIn](https://linkedin.com/company/opencommunity)
 - [X (twitter)](https://x.com/xxopencommunity) (dev community only)
 - [Discord](https://discord.gg/nhDV2kJD) (dev community only)
